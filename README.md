@@ -1,4 +1,7 @@
 # 🚩 Bypass CTF Tool
+## SPOILER ALERT!!
+This content contains spoilers for CTF work on CTFLearn. Please use it wisely.
+
 
 ## 🔍 Overview
 **Bypass CTF Tool** is a sophisticated Python-powered utility designed to help cybersecurity enthusiasts and CTF participants navigate web challenges by intelligently testing various request configurations.
@@ -46,11 +49,18 @@ python3 bypassTool.py
 3. **Referer Handling**
    - Optional but powerful Referer header injection
    - Useful for bypassing server-side validation
+   - 
 ![image](https://github.com/user-attachments/assets/14d46fdb-05e1-44e5-b055-c7a327646ce8)
+
+
 
 Maybe you guys wondering how can i get the User Agent right?
 I got the user agent using inspect the website. When I practice a CTF especially on the web, the first thing I do is inspect the website.
+
+
 ![Screenshot 2025-01-22 213633](https://github.com/user-attachments/assets/f08fa038-2556-40ad-8a38-209bbd0e18d8)
+
+
 ## 📊 Workflow
 ```mermaid
 graph TD

@@ -16,16 +16,10 @@
 - 🎯 **Automated Flag Detection**
   Smart algorithm to automatically identify and extract hidden flags.
 
-## 🛠 Installation & Setup
+## 🛠 Installation & Setup In Kali Linux
 
 ### Prerequisites
-- Python 3.7+
-- `requests` library
-
-```bash
-# Install required dependencies
-pip install requests
-```
+- Python 3 `sudo apt-get install python3 -y`
 
 ### Quick Start
 ```bash

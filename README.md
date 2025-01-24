@@ -82,7 +82,7 @@ Unauthorized use is the sole responsibility of the user.
 This project has been tested using challenges from the CTFLearn platform. All testing was conducted ethically and in accordance with the platform's rules and guidelines.
 
 ## Additional Information!!
- I also made a file to show how I solved the CTF challenge manually using curl on [Tutorial](TUTORIAL.md)
+- I also made a file to show how I solved the CTF challenge manually using curl on [Tutorial](TUTORIAL.md)
 ---
 
 **🔐 Happy Ethical Hacking!**

@@ -1,5 +1,5 @@
 # 🚩 Bypass CTF Tool
-## SPOILER ALERT!!
+## ALERT!!
 This content contains spoilers for CTF work on CTFLearn. Please use it wisely.
 
 
